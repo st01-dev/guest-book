@@ -1,4 +1,4 @@
-package com.gye.guestbook;
+package com.gye.guest_book;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

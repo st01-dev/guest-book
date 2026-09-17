@@ -1,4 +1,4 @@
-package com.gye.guestbook.domain;
+package com.gye.guest_book.domain;
 
 import java.time.LocalDateTime;
 

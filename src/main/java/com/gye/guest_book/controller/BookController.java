@@ -1,4 +1,4 @@
-package com.gye.guestbook.controller;
+package com.gye.guest_book.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.gye.guestbook.domain.GuestBook;
-import com.gye.guestbook.service.GuestBookService;
+import com.gye.guest_book.domain.GuestBook;
+import com.gye.guest_book.service.GuestBookService;
 
 import lombok.RequiredArgsConstructor;
 

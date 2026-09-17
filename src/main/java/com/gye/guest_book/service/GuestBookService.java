@@ -1,4 +1,4 @@
-package com.gye.guestbook.service;
+package com.gye.guest_book.service;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.dao.DataAccessException;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
-import com.gye.guestbook.domain.GuestBook;
-import com.gye.guestbook.repository.GuestBookRepository;
+import com.gye.guest_book.domain.GuestBook;
+import com.gye.guest_book.repository.GuestBookRepository;
 
 import lombok.RequiredArgsConstructor;
 
